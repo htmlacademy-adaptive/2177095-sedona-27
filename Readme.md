@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Аида Ахтариева](https://up.htmlacademy.ru/adaptive/27/user/2177095).
-* Наставник: `Неизвестно`.
+* Наставник:[Ярослав](https://htmlacademy.ru/profile/redx).
 
 ---
 
